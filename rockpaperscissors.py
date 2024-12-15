@@ -1,3 +1,5 @@
+# Rock Paper Scissors game with Random library
+
 import random 
 
 
