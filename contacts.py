@@ -9,3 +9,7 @@ contacts = {
             {'name':'Ron Weasley', 'email':'ron@example.com'}
         ]
 }
+
+print('Student emails:')
+for student in contacts['students']:
+    print(student['email'])
